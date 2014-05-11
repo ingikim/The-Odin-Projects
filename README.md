@@ -1,3 +1,9 @@
-# Google Homepage
+A collection of small projects for learning:
 
-[*Ingi Kim*](http://ingikim.com)
+* HTML
+* CSS
+* javascript
+* jQuery
+* git
+* Ruby
+* Rails
